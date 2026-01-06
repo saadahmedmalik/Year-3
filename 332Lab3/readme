@@ -1,0 +1,11 @@
+We got the linux setup wokring on the DE1-SoC board by flashing the image through Rufus and connecting it to the lab windows desktop.
+we worked on copying over the required files to the intelFPGA folder on the C drive and ran the quartus analysis and synthesis.
+we used the synthesis to compile the .AOCX file
+
+Edit 04/12
+
+Made changes to capture_image.cc to display video out into the monitor and take images and convert it into b&w but it is not fully functional.
+
+Edit 04/16
+
+final code uploaded
